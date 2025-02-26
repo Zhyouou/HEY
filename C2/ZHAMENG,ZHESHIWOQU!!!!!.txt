@@ -1,0 +1,91 @@
+<html>
+<head>
+<title></title>
+
+</head>
+<body>
+<table border="1" width="100%">
+<tr><td colspan = 3>
+              <p  align="center"><img border="0"src="logo.gif" width="100%"></td><.tr>
+              <tr>
+                                <td width=20%>
+<table border="1" width="100%" cellspacing="0" cellpadding="0">
+          <tr>
+   <td><p> これは、皆の、最後のも始まるの、ムスクです！！！！！！</p>
+<ol>
+<li><em>詩超絆</em></li>
+<li><strong>utakotoba</strong></li>
+<li>僕にはわからないんだ　いつも  </li>
+<li>みつけられない　正解も普通も</li>
+<li>世界はずっと　ずっとずっと遠く   </li>
+<li>僕には届かない場所にあるんだ   </li>
+<li>ひだまりを抱きしめていた春も   </li>
+<li>夏が照らしすぎて　消えてしまいそうで   </li>
+<li>如果在沥青上会干枯的话   </li>
+<li>那我更想永远藏身于石底   </li>
+<li>ふたたび　僕が壊してしまったんだ   </li>
+<li> 失いたくなくて　忘れたくなくて  </li>
+<li>なのに　力なく手を離してしまった   </li>
+<li>たいせつと　僕は知っていたのに   </li>
+</ol>
+</td>
+          </tr>
+
+<table border="1" width="100%" cellspacing="0" cellpadding="0">
+     <tr>
+       <td>   
+<p align="center">音乐欣赏     
+
+       </td>      
+     </tr>  
+ <tr>
+       <td><audio src="春日影！！！！！.flac" controls="controls">您的浏览器不支持audio标签呢┭┮﹏┭┮请务必换一个浏览器进行尝试(づ￣3￣)づ╭❤～ </audio>     
+                                 </td>
+</tr>
+</table>
+</td>
+
+<td>
+<table border="1" width="100%" cellspacing="0" cellpadding="0">
+     <tr>
+       <td>   
+<p align="center">视频欣赏     
+       </td>      
+     </tr>  
+ <tr>
+       <td><video src="【𝟒𝐊_𝟔𝟎𝐅𝐏𝐒】惊世一跪！你这个人满脑子都是自己呢 名场面修复补帧超分.mp4"  width="320" heighy="240" controls="controls">您的浏览器不支持vedio标签呢┭┮﹏┭┮请务必换一个浏览器进行尝试(づ￣3￣)づ╭❤～ </video>     
+                                 </td>
+</tr>
+</table>
+</td>
+</tr>
+
+                                 <td width=25%>
+
+                                 </td>
+                                 <td width=55%>
+
+                                 </td>
+              </tr>
+              <tr>
+                                 <td>
+<table border="1" width="100%" >
+          <tr>
+<td><p>一起来组建属于你们的少女乐队吧！！！！！</p>
+<ul>
+<li><a href="https://id5.163.com/">查看你的摇滚少女乐队</a></li>
+<li><a href="https://www.yuanshen.com/#/">查看你的异世界少女乐队</a></li>
+<li><a href="https://zzz.mihoyo.com/main/">查看你的都市少女乐队</a></li>
+<li><a href="https://sr.mihoyo.com/">查看你的宇宙少女乐队</a></li>
+<li><a href="https://www.bilibili.com/bangumi/play/ep614209">查看你的机械少女乐队</a></li>
+</ul>
+</td>
+          </tr>
+          </table>
+                           
+      </td>
+                                 <td>
+
+                                 </td>
+                                 <td>
+                                 </td>
